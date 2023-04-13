@@ -21,10 +21,29 @@ Programming Basics
 ***
 # ![image_description](https://em-content.zobj.net/thumbs/120/apple/354/person-climbing_light-skin-tone_1f9d7-1f3fb_1f3fb.png) GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danikolovv)](https://github.com/ryo-ma/github-profile-trophy)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex-basis: 100%; margin-bottom: 1rem;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=danikolovv" alt="trophy" />
+    </a>
+  </div>
+  <div style="flex-basis: 47%; margin-right: 1%;">
+    <a href="https://github.com/danikolovv">
+      <img src="https://github-readme-stats.vercel.app/api?username=danikolovv&show_icons=true" alt="GitHub Stats" />
+    </a>
+  </div>
+  <div style="flex-basis: 47%; margin-left: 1%;">
+    <a href="https://github.com/danikolovv">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv" alt="Top Languages" />
+    </a>
+  </div>
+  <div style="flex-basis: 47%; margin-right: 1%;">
+    <a href="https://streak-stats.demolab.com/?user=danikolovv">
+      <img src="https://streak-stats.demolab.com/?user=danikolovv" alt="GitHub Streak" />
+    </a>
+  </div>
+  <div style="flex-basis: 13%;">
+    <img src="https://gpvc.arturio.dev/danikolovv" alt="Profile Views" />
+  </div>
+</div>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=danikolovv&show_icons=true" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv" />
-
-<img align="left" width="47%" src="https://streak-stats.demolab.com/?user=danikolovv" />
-<img align="left" width="13%" src="https://gpvc.arturio.dev/danikolovv" />
