@@ -23,12 +23,12 @@ Programming Basics
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=danikolovv)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=danikolovv&show_icons=true" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv" />
-
----
-
-<img align="left" width="47%" src="https://streak-stats.demolab.com/?user=danikolovv" />
-<img align="left" width="13%" src="https://gpvc.arturio.dev/danikolovv" />
-
-
+<div>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=danikolovv&show_icons=true" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv" />
+  <div style="clear: both;"></div>
+  
+  <!-- add your content below the clearing element -->
+  <img align="left" width="47%" src="https://streak-stats.demolab.com/?user=danikolovv" />
+  <img align="left" width="13%" src="https://gpvc.arturio.dev/danikolovv" />
+</div>
