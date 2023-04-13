@@ -24,7 +24,7 @@ Programming Basics
 [![trophy](https://github-profile-trophy.vercel.app/?username=danikolovv)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=danikolovv&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+<img align="left" width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=danikolovv&theme=dark&hide_border=false" />
 <img align="left" width="13%" src="https://gpvc.arturio.dev/danikolovv" />
