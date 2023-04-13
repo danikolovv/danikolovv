@@ -26,9 +26,7 @@ Programming Basics
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=danikolovv&show_icons=true" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv" />
 
-<img align="centre" width="47%" src="https://streak-stats.demolab.com/?user=danikolovv" />
-<div style="text-align: center;">
-  <img align="middle" width="20%" src="https://gpvc.arturio.dev/danikolovv" />
-</div>
+<img align="left" width="47%" src="https://streak-stats.demolab.com/?user=danikolovv" />
+<img align="left" width="20%" src="https://gpvc.arturio.dev/danikolovv" />
 
 
