@@ -15,7 +15,7 @@ Skills: Java / C# / JS / HTML / CSS
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;">
 
 ## Personal information
-- 🔭 I’m currently working on developing myself. 
+- <img src="https://em-content.zobj.net/thumbs/120/apple/354/chart-increasing_1f4c8.png" alt="image_description" style="margin: 60px; width: 45px;"> I’m currently working on developing myself. 
 - <img src="https://em-content.zobj.net/thumbs/120/apple/354/hot-beverage_2615.png" alt="image_description" style="margin: 60px; width: 45px;"> I’m currently learning Java 
 - <img src="https://em-content.zobj.net/thumbs/120/apple/354/man-swimming-medium-light-skin-tone_1f3ca-1f3fc-200d-2642-fe0f.png" alt="image_description" style="margin: 60px; width: 45px;"> I love swimming
 ***
