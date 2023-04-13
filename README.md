@@ -50,8 +50,8 @@ Programming Basics
 ## Personal information
 - <img src="https://em-content.zobj.net/thumbs/120/apple/354/chart-increasing_1f4c8.png" alt="image_description" style="margin: 50px; width: 50px;"> I’m currently working on developing myself. 
 - <img src="https://em-content.zobj.net/thumbs/120/apple/354/man-technologist-medium-light-skin-tone_1f468-1f3fc-200d-1f4bb.png" alt="image_description" style="margin: 50px; width: 50px;"> I mainly use Java, C#, JS, HTML, CSS
-- <img src="https://em-content.zobj.net/thumbs/120/apple/354/man-swimming-medium-light-skin-tone_1f3ca-1f3fc-200d-2642-fe0f.png" alt="image_description" style="margin: 50px; width: 50px;"> I love swimming
 - <img src="https://em-content.zobj.net/thumbs/72/apple/354/school_1f3eb.png" alt="image_description" style="margin: 50px; width: 50px;"> I am studying in High School
+- <img src="https://em-content.zobj.net/thumbs/120/apple/354/man-swimming-medium-light-skin-tone_1f3ca-1f3fc-200d-2642-fe0f.png" alt="image_description" style="margin: 50px; width: 50px;"> I love swimming
 ***
 # ![image_description](https://em-content.zobj.net/thumbs/120/apple/354/person-climbing_light-skin-tone_1f9d7-1f3fb_1f3fb.png) GitHub Stats
 
