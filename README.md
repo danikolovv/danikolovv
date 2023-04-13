@@ -23,8 +23,8 @@ Programming Basics
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=danikolovv)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=danikolovv&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=danikolovv&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv" />
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=danikolovv)  
 
