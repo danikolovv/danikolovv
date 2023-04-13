@@ -9,7 +9,7 @@ Skills: Java / C# / JS / HTML / CSS
 - 🔭 I’m currently working on developing myself. 
 - 🌱 I’m currently learning Java 
 ***
-# ![image_description](https://cdn-icons-png.flaticon.com/512/4624/4624025.png) GitHub Stats
+# ![image_description](https://cdn-icons-png.flaticon.com/128/901/901492.png) GitHub Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=danikolovv)](https://github.com/ryo-ma/github-profile-trophy)
 
