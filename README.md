@@ -7,7 +7,7 @@ I am Daniel from Bulgaria. I do coding mainstream and progressing every day. I a
 Skills: Java / C# / JS / HTML / CSS
 
 - 🔭 I’m currently working on developing myself. 
-- <img src="https://em-content.zobj.net/thumbs/120/apple/354/hot-beverage_2615.png" alt="image_description" style="margin: 50px; width: 50px;"> I’m currently learning Java 
+- <img src="https://em-content.zobj.net/thumbs/120/apple/354/hot-beverage_2615.png" alt="image_description" style="margin: 45px; width: 45px;"> I’m currently learning Java 
 - ![image_description](https://em-content.zobj.net/thumbs/120/apple/354/man-swimming-medium-light-skin-tone_1f3ca-1f3fc-200d-2642-fe0f.png) I love swimming
 ***
 # ![image_description](https://em-content.zobj.net/thumbs/120/apple/354/person-climbing_light-skin-tone_1f9d7-1f3fb_1f3fb.png) GitHub Stats
