@@ -1,4 +1,4 @@
-<img src="https://cdn.wallpapersafari.com/66/53/TQVpM3.jpg" alt="image_description" style="margin: 300px; width: 500px;">
+![image_description](https://cdn.wallpapersafari.com/66/53/TQVpM3.jpg)
 ## Hi there, I'm Daniel! 
 #### Back-end developer
 
