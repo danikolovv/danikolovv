@@ -1,7 +1,7 @@
 ![image_description](https://cdn.wallpapersafari.com/66/53/TQVpM3.jpg)
 ## Hi there, I'm Daniel!👋
 #### Back-end developer
-##### Developing the Front-end skills
+###### Developing the Front-end skills
 
 I am Daniel from Bulgaria. I endeavor to progressing every day. I am studying programming in SoftUni Bulgaria.
 
