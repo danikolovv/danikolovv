@@ -49,7 +49,7 @@ Programming Basics
 
 ## Personal information
 - <img src="https://em-content.zobj.net/thumbs/120/apple/354/chart-increasing_1f4c8.png" alt="image_description" style="margin: 50px; width: 50px;"> I’m currently working on developing myself. 
-- <img src="https://em-content.zobj.net/thumbs/120/apple/354/keyboard_2328-fe0f.png" alt="image_description" style="margin: 50px; width: 50px;"> <img src="https://em-content.zobj.net/thumbs/120/apple/354/computer-mouse_1f5b1-fe0f.png" alt="image_description" style="margin: 50px; width: 50px;"> I mainly use Java, C#, JS, HTML, CSS
+- <img src="https://em-content.zobj.net/thumbs/120/apple/354/keyboard_2328-fe0f.png" alt="image_description" style="margin: 50px; width: 50px;"> <img src="https://em-content.zobj.net/thumbs/120/apple/354/computer-mouse_1f5b1-fe0f.png" alt="image_description" style="margin: 40px; width: 50px;"> I mainly use Java, C#, JS, HTML, CSS
 - <img src="https://em-content.zobj.net/thumbs/120/apple/354/man-swimming-medium-light-skin-tone_1f3ca-1f3fc-200d-2642-fe0f.png" alt="image_description" style="margin: 50px; width: 50px;"> I love swimming
 - <img src="https://em-content.zobj.net/thumbs/120/apple/354/man-swimming-medium-light-skin-tone_1f3ca-1f3fc-200d-2642-fe0f.png" alt="image_description" style="margin: 50px; width: 50px;"> I am studying in High School
 ***
