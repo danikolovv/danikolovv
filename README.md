@@ -2,9 +2,9 @@
 ## Hi there, I'm Daniel!👋
 #### Back-end developer
 
-I am Daniel from Bulgaria. I do coding mainstream and progressing every day. I am studying programming in SoftUni Bulgaria.
+I am Daniel from Bulgaria. I endeavor to progressing every day. I am studying programming in SoftUni Bulgaria.
 
-Skills: Java / C# / JS / HTML / CSS
+Skills: Java / C# / Python / JS / HTML / CSS
 
 ## Achievements
 
