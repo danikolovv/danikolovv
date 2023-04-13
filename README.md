@@ -1,4 +1,5 @@
 ![image_description](https://cdn.wallpapersafari.com/66/53/TQVpM3.jpg)
+<img src="https://cdn.wallpapersafari.com/66/53/TQVpM3.jpg" alt="main_image" style="margin: 500px; width: 1324px;"> 
 ## Hi there, I'm Daniel!👋
 #### Back-end developer
 ###### Developing the Front-end skills
