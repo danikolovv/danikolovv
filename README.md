@@ -1,4 +1,4 @@
-### Hi there 👋, Daniel Nikolov
+## Hi there 👋, Daniel Nikolov
 #### Back-end developer
 ![Back-end developer](https://cdn.wallpapersafari.com/66/53/TQVpM3.jpg)
 
