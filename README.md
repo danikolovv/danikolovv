@@ -6,7 +6,7 @@ I am Daniel from Bulgaria. I do coding mainstream and progressing every day. I a
 
 Skills: Java / C# / JS / HTML / CSS
 
-# Achievements
+## Achievements
 
 ### Programming Fundamentals with Java
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 30px; width: 30px;">
