@@ -1,5 +1,5 @@
 ![image_description](https://cdn.wallpapersafari.com/66/53/TQVpM3.jpg)
-## Hi there, I'm Daniel! 
+## Hi there, I'm Daniel!👋
 #### Back-end developer
 
 I am Daniel from Bulgaria. I do coding mainstream and progressing every day. I am studying programming in SoftUni Bulgaria.
