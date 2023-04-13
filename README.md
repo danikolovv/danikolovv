@@ -30,6 +30,6 @@ Programming Basics
 <img align="left" style="margin: 450px; width: 450px;" src="https://github-readme-stats.vercel.app/api?username=danikolovv&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
 <img align="left" style="margin: 1000px; width: 450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=danikolovv&theme=dark&hide_border=false" />
+<img align="left" style="margin: 1000px; width: 450px;" src="https://github-readme-streak-stats.herokuapp.com/?user=danikolovv&theme=dark&hide_border=false" />
 <img align="left" width="13%" src="https://visitcount.itsvg.in/api?id=danikolovv&icon=5&color=12" />
 
