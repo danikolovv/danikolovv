@@ -9,7 +9,7 @@ Skills: Java / C# / JS / HTML / CSS
 ## Achievements
 
 #### Programming Fundamentals with Java
-<img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 30px; width: 30px;">
+<img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;">
 
 ## Personal information
 - 🔭 I’m currently working on developing myself. 
