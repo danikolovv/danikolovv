@@ -6,6 +6,7 @@ I am Daniel from Bulgaria. I do coding mainstream and progressing every day. I a
 
 Skills: Java / C# / JS / HTML / CSS
 # Programming Fundamentals with Java <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 60px; width: 45px;">
+- [x] Task is done
 
 - 🔭 I’m currently working on developing myself. 
 - <img src="https://em-content.zobj.net/thumbs/120/apple/354/hot-beverage_2615.png" alt="image_description" style="margin: 60px; width: 45px;"> I’m currently learning Java 
