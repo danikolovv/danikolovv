@@ -10,6 +10,12 @@ Skills: Java / C# / Python / JS / HTML / CSS
 
 ## Achievements
 
+Java OOP
+<img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> 
+
+Java Advanced
+<img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> 
+
 Programming Fundamentals with Java
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> 
 
