@@ -10,13 +10,13 @@ Skills: Java / C# / Python / JS / HTML / CSS
 
 ## Achievements
 
-Java OOP
+<a href="https://softuni.bg/certificates/details/181496/a8a6284d">Java OOP<a/>
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> 
 
-Java Advanced
+<a href="https://softuni.bg/certificates/details/174622/d201314a">Java Advanced<a/>
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> 
 
-Programming Fundamentals with Java
+<a href="https://softuni.bg/certificates/details/169306/388a139b">Programming Fundamentals with Java<a/>
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> 
 
 <a href="https://softuni.bg/certificates/details/108042/9a6dcaa9">Programming Basics<a/>
