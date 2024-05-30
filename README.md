@@ -19,7 +19,7 @@ Java Advanced
 Programming Fundamentals with Java
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> 
 
-Programming Basics
+<a href="https://softuni.bg/certificates/details/108042/9a6dcaa9">Programming Basics<a/>
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;">
 
 ## Tech Stack
