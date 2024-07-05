@@ -6,7 +6,7 @@
 
 I am Daniel from Bulgaria. I endeavor to progressing every day. I am studying programming in SoftUni Bulgaria.
 
-Skills: Java / C# / Python / JS / HTML / CSS
+Skills: Java / C# / HTML / CSS / Python / JS
 
 ## Achievements
 
