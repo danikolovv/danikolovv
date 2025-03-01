@@ -8,7 +8,7 @@
     I endeavor to progress every day. <br>
     I am studying at TUV. </p>
 
-Skills: Java / C# / HTML / CSS / Python / JS
+Skills: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 ## Achievements
 
