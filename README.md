@@ -58,7 +58,7 @@ Skills: Java, C/C++, C#, MySQL, JS
 
 
 ## Personal information
-<img src="https://em-content.zobj.net/thumbs/120/apple/354/chart-increasing_1f4c8.png" alt="image_description" style="margin: 50px; width: 50px; vertical-align: middle"> I’m currently working on developing myself.  
+<p><img src="https://em-content.zobj.net/thumbs/120/apple/354/chart-increasing_1f4c8.png" alt="image_description" style="margin: 50px; width: 50px; vertical-align: middle"> I’m currently working on developing myself.</p>   
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/man-technologist-medium-light-skin-tone_1f468-1f3fc-200d-1f4bb.png" alt="image_description" style="margin: 50px; width: 50px;"> I mainly use Java, C/C++, C#, HTML, CSS, JS  
 <img src="https://em-content.zobj.net/thumbs/72/apple/354/school_1f3eb.png" alt="image_description" style="margin: 50px; width: 50px;"> I am first-year student in university  
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/man-swimming-medium-light-skin-tone_1f3ca-1f3fc-200d-2642-fe0f.png" alt="image_description" style="margin: 50px; width: 50px;"> I love swimming  
