@@ -1,10 +1,8 @@
 <img src="https://cdn.wallpapersafari.com/66/53/TQVpM3.jpg" alt="main_image" style="margin: 100px; width: 1324px;"> 
 
 ## Hi there, I'm Daniel! 👋🏻
-<p>
 #### Back-end developer
 ###### Developing the Front-end skills
-</p>
 
 <p> I am Daniel from Bulgaria. <br>
     I endeavor to progress every day. <br>
