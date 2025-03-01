@@ -83,4 +83,31 @@ Skills: Java, C/C++, C#, MySQL, JS
   </div>
 </div>
 
+# Project Title
+
+## Features
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/100" alt="Feature 1" /><br/>
+      <b>Feature 1</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/100" alt="Feature 2" /><br/>
+      <b>Feature 2</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/100" alt="Feature 3" /><br/>
+      <b>Feature 3</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/100" alt="Feature 4" /><br/>
+      <b>Feature 4</b>
+    </td>
+  </tr>
+</table>
+
 
