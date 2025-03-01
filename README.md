@@ -6,7 +6,7 @@
 
 I am Daniel from Bulgaria. I endeavor to progress every day. I am studying at TUV.   
 
-Skills: Java, C/C++, C#, MySQL, JS
+Skills: Java, C/C++, MySQL, C#, JS
 
           
 
