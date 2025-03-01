@@ -3,13 +3,16 @@
 ## Hi there, I'm Daniel! 👋🏻
 #### Back-end developer
 ###### Developing the Front-end skills
-
+<p>
 <p> I am Daniel from Bulgaria. <br>
     I endeavor to progress every day. <br>
     I am studying at TUV. </p>
 
-Skills: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="height: 100px; width: 100px;"/>
+<p>
+    Skills: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="height: 100px; width: 100px;"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="height: 100px; width: 100px;"/>
+</p>
+</p>
           
 
 ## Achievements
