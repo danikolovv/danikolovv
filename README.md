@@ -9,7 +9,7 @@
     I am studying at TUV. </p>
 
 Skills: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="height: 100px; width: 100px;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="height: 100px; width: 100px;"/>
           
 
 ## Achievements
