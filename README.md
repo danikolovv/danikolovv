@@ -25,7 +25,10 @@ Skills: Java, C/C++, MySQL, C#, JS
 
 ## Tech Stack
 #### Languages
-![C++](https://skillicons.dev/icons?i=cpp,c,java,cs,js&perline=5)
+<p align="right">
+          ![C++](https://skillicons.dev/icons?i=cpp,c,java,cs,js&perline=5)
+</p>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
