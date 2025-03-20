@@ -1,4 +1,4 @@
-<img src="https://ibb.co/zHFrn6zg" alt="main_image" style="margin: 100px; width: 1324px;"> 
+<img src="https://i.ibb.co/XkDb2YqP/gh-intro-wh.png" alt="main_image" style="margin: 100px; width: 1324px;"> 
 
 ## Hi there, I'm Daniel! 👋🏻
 #### Back-end developer
