@@ -23,6 +23,8 @@
 # ![image_description](https://em-content.zobj.net/thumbs/120/apple/354/person-climbing_light-skin-tone_1f9d7-1f3fb_1f3fb.png) GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+         <img height=200 width=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
   <div style="flex-basis: 100%; margin-bottom: 1rem;">
     <img src="https://github-profile-trophy.vercel.app/?username=danikolovv&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
   </div>
