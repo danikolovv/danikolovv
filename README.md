@@ -7,6 +7,7 @@
          
 ### Achievements:  
 | Name of Certificate  | Grade |
+| ------------- | ------------- |
 |  [Java OOP](https://softuni.bg/certificates/details/181496/a8a6284d) | 6.00  |
 | [Java Advanced](https://softuni.bg/certificates/details/174622/d201314a) | 6.00 |
 | [Programming Fundamentals with Java](https://softuni.bg/certificates/details/169306/388a139b)  | 6.00 |
