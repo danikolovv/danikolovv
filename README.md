@@ -21,7 +21,7 @@
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/man-swimming-medium-light-skin-tone_1f3ca-1f3fc-200d-2642-fe0f.png" alt="image_description" style="margin: 50px; width: 50px;"> I love swimming  
 
 <div id="user-content-toc">
-         <img src="https://em-content.zobj.net/thumbs/120/apple/354/person-climbing_light-skin-tone_1f9d7-1f3fb_1f3fb.png"><h1>Github Stats</h1>
+         <img src="https://em-content.zobj.net/thumbs/120/apple/354/person-climbing_light-skin-tone_1f9d7-1f3fb_1f3fb.png"><h1 id="user-content-toc">Github Stats</h1>
 </div>
 
 <div class='container'>
