@@ -6,7 +6,7 @@
 I endeavor to progress every day.
 I am studying at TUV.   
 
-Skills: Java, C/C++, MySQL, C#, JS
+Expertise: Java, C/C++, MySQL, C#, JS
 
           
 
