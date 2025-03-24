@@ -30,11 +30,6 @@
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 <img style="height: auto; width: 97%;" class="img" src="https://github-profile-trophy.vercel.app/?username=danikolovv&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex-basis: 13%;">
-    <img src="https://visitcount.itsvg.in/api?id=danikolovv&icon=5&color=12" alt="Profile Views" />
-  </div>
-</div>
 
 
 
