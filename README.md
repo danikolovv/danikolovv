@@ -1,10 +1,7 @@
 <img src="https://i.ibb.co/XkDb2YqP/gh-intro-wh.png" alt="main_image" style="margin: 100px; width: 1324px;"> 
 
 #### Back-end developer
-###### Developing the Front-end skills
-
-I endeavor to progress every day.
-I am studying at TUV.   
+###### Developing the Front-end skills 
 
 Expertise: Java, C/C++, MySQL, C#, JS
 
