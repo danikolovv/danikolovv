@@ -12,9 +12,7 @@
 | [Java Advanced](https://softuni.bg/certificates/details/174622/d201314a) | 6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> |
 | [Programming Fundamentals with Java](https://softuni.bg/certificates/details/169306/388a139b)  | 6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> |
 | [Programming Basics](https://softuni.bg/certificates/details/108042/9a6dcaa9)  | 6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> |
- <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> 
- [Java Advanced](https://softuni.bg/certificates/details/174622/d201314a) <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> [Programming Fundamentals with Java](https://softuni.bg/certificates/details/169306/388a139b) <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> [Programming Basics](https://softuni.bg/certificates/details/108042/9a6dcaa9) <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;">
-
+ 
 ## Tech Stack
 #### Languages
 
