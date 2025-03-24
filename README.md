@@ -27,7 +27,7 @@
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-<img style="height: auto; width: 95%;" class="img" src="https://github-profile-trophy.vercel.app/?username=danikolovv&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+<img style="height: auto; width: 96%;" class="img" src="https://github-profile-trophy.vercel.app/?username=danikolovv&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="flex-basis: 100%; margin-bottom: 1rem;">
