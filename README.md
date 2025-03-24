@@ -14,7 +14,7 @@
 | [Programming Basics](https://softuni.bg/certificates/details/108042/9a6dcaa9)  | 6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> |
  
 ### PL I have used/I use/I actively study:   
-[![My Work](https://skillicons.dev/icons?i=dnet,html,css,js,&theme=light&perline=8)](https://skillicons.dev)
+[![My Work](https://skillicons.dev/icons?i=dotnet,react,html,css,js,&theme=light&perline=8)](https://skillicons.dev)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
