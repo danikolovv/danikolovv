@@ -35,7 +35,7 @@ Expertise: Java, C/C++, MySQL, C#, JS
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-#### Cloud Computing/Cloud Development
+#### Cloud Computing
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 #### Frameworks, Platforms & Libraries
