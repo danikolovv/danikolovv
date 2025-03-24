@@ -4,8 +4,7 @@
 
 ### Expertise:  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4)](https://skillicons.dev)
-
-          
+         
 
 ## Achievements
 
