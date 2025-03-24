@@ -3,7 +3,8 @@
 #### Back-end developer
 ###### Developing the Front-end skills
 
-I am Daniel from Bulgaria. I endeavor to progress every day. I am studying at TUV.   
+I endeavor to progress every day.
+I am studying at TUV.   
 
 Skills: Java, C/C++, MySQL, C#, JS
 
