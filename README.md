@@ -2,7 +2,7 @@
 
 #### Back-end developer
 
-Expertise: [![My Skills](https://skillicons.dev/icons?i=c,cpp,java&theme=light,cs,mysql,cp)](https://skillicons.dev) Java, C/C++, MySQL, C#, JS
+Expertise: [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,cs,mysql,cp&theme=light)](https://skillicons.dev) Java, C/C++, MySQL, C#, JS
 
           
 
