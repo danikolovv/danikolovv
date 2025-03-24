@@ -19,8 +19,8 @@
 ## Personal information
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/chart-increasing_1f4c8.png" alt="image_description" style="margin: 50px; width: 50px; vertical-align: middle"> I’m currently working on developing myself.   
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/man-swimming-medium-light-skin-tone_1f3ca-1f3fc-200d-2642-fe0f.png" alt="image_description" style="margin: 50px; width: 50px;"> I love swimming  
-***
-<div id="toc">
+
+<div id="user-content-toc">
 # ![image_description](https://em-content.zobj.net/thumbs/120/apple/354/person-climbing_light-skin-tone_1f9d7-1f3fb_1f3fb.png) GitHub Stats
 </div>
 
