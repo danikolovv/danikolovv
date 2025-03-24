@@ -31,18 +31,6 @@
 <img style="height: auto; width: 97%;" class="img" src="https://github-profile-trophy.vercel.app/?username=danikolovv&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex-basis: 100%; margin-bottom: 1rem;">
-    <img src="https://github-profile-trophy.vercel.app/?username=danikolovv&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
-  </div>
-  <div style="flex-basis: 47%; margin-right: 1%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=danikolovv&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  </div>
-  <div style="flex-basis: 47%; margin-left: 1%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikolovv&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-  </div>
-  <div style="flex-basis: 47%; margin-right: 1%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danikolovv&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </div>
   <div style="flex-basis: 13%;">
     <img src="https://visitcount.itsvg.in/api?id=danikolovv&icon=5&color=12" alt="Profile Views" />
   </div>
