@@ -2,7 +2,8 @@
 
 #### Back-end developer
 
-## Expertise: [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light)](https://skillicons.dev)
+## Expertise:  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light)](https://skillicons.dev)
 
           
 
