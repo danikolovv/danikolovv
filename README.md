@@ -8,7 +8,7 @@
 
 ## Achievements
 
-[Java OOP](https://softuni.bg/certificates/details/181496/a8a6284d)
+[Java OOP](https://softuni.bg/certificates/details/181496/a8a6284d) [Java Advanced](https://softuni.bg/certificates/details/174622/d201314a) 
 <a href="https://softuni.bg/certificates/details/181496/a8a6284d">Java OOP<a/>
 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> 
 
