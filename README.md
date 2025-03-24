@@ -23,6 +23,7 @@
 # ![image_description](https://em-content.zobj.net/thumbs/120/apple/354/person-climbing_light-skin-tone_1f9d7-1f3fb_1f3fb.png) GitHub Stats
 
 <div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=danikolovv&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=danikolovv&theme=dark&hide_border=false" />
 &nbsp;
 &nbsp;
