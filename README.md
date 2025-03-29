@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4)](https://skillicons.dev)
 
 <div align="center">
-    <a href="https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4"><img src="https://skillicons.dev" width="450"></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4" width="450"></a>
     <a href="https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4"><img src="https://skillicons.dev" width="450"></a>
 </div>
 
