@@ -7,7 +7,20 @@
 
 <div align="center">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4" width="200"></a>
-    <a href="https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4"><img src="https://skillicons.dev" width="450"></a>
+    <table border="0">
+        <tr>
+            <th>Name of certificate</th>
+            <th>Grade</th>
+        </tr>
+        <tr>
+            <td><a href="https://softuni.bg/certificates/details/181496/a8a6284d">Java OOP (SoftUni)</a></td>
+            <td>6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"></td>
+        </tr>
+        <tr>
+            <td><a href="https://softuni.bg/certificates/details/174622/d201314a">Java Advanced (SoftUni)</a></td>
+            <td>6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"></td>
+        </tr>
+    </table>
 </div>
 
 ### Achievements:  
