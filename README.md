@@ -8,7 +8,7 @@
 <div align="center">
     <table >
      <tr>
-       <td><a href="https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4"><img src="https://skillicons.dev"></a></td>
+       <td><a href="https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4"><img src="https://skillicons.dev" width="450"></a></td>
         <td> <a href=""></td>
      </tr>
     </table>
