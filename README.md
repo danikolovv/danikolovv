@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4" width="200"></a>
-    <table border="0">
+    <table border="0" width="412">
         <tr>
             <th>Name of certificate</th>
             <th>Grade</th>
