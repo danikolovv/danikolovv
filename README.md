@@ -5,13 +5,6 @@
 ### Expertise:  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4)](https://skillicons.dev)
 
-<div align="center">
-    <h3>Expertise:</h3>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4" width="250"></a>
-    <h3>PLs I have used/I use/I actively study:</h3>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,react,html,css,js,php&theme=light&perline=8" width="250"></a>
-</div>
-
 ### Achievements:  
 | Name of Certificate  | Grade |
 | ------------- | ------------- |
