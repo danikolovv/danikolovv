@@ -6,21 +6,10 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4)](https://skillicons.dev)
 
 <div align="center">
+    <h3>Expertise:</h3>
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4" width="250"></a>
-    <table border="0">
-        <tr>
-            <th>Name of certificate</th>
-            <th>Grade</th>
-        </tr>
-        <tr>
-            <td><a href="https://softuni.bg/certificates/details/181496/a8a6284d">Java OOP (SoftUni)</a></td>
-            <td>6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"></td>
-        </tr>
-        <tr>
-            <td><a href="https://softuni.bg/certificates/details/174622/d201314a">Java Advanced (SoftUni)</a></td>
-            <td>6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"></td>
-        </tr>
-    </table>
+    <h3>PLs I have used/I use/I actively study:</h3>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,react,html,css,js,php&theme=light&perline=8" width="250"></a>
 </div>
 
 ### Achievements:  
