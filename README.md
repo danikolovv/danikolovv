@@ -7,7 +7,6 @@
 
 <div align="center">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,cs,mysql&theme=light&perline=4" width="250"></a>
-    <a>
     <table border="0">
         <tr>
             <th>Name of certificate</th>
@@ -22,7 +21,6 @@
             <td>6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"></td>
         </tr>
     </table>
-    </a>
 </div>
 
 ### Achievements:  
