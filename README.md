@@ -19,9 +19,6 @@
 | [Java Advanced](https://softuni.bg/certificates/details/174622/d201314a) | 6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> |
 | [Programming Fundamentals with Java](https://softuni.bg/certificates/details/169306/388a139b)  | 6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> |
 | [Programming Basics](https://softuni.bg/certificates/details/108042/9a6dcaa9)  | 6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"> |
- 
-### PLs I have used/I use/I actively study:   
-[![My Work](https://skillicons.dev/icons?i=dotnet,react,html,css,js,php&theme=light&perline=8)](https://skillicons.dev)
 
 <div id="user-content-toc">
          <h1><img align="center" height="120" src="https://em-content.zobj.net/thumbs/120/apple/354/person-climbing_light-skin-tone_1f9d7-1f3fb_1f3fb.png"> Github Stats</h1>         
