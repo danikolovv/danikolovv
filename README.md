@@ -20,6 +20,16 @@
 
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=danikolovv&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+         <table border="0">
+                  <tr>
+                           <th>Name of certificate</th>
+                           <th>Grade</th>
+                  </tr>
+                  <tr>
+                           <td>Java OOP</td>
+                           <td>6.00 <img src="https://em-content.zobj.net/thumbs/120/apple/354/check-mark-button_2705.png" alt="image_description" style="margin: 20px; width: 20px;"></td>
+                  </tr>
+         </table>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=danikolovv&theme=dark&hide_border=false" />
 &nbsp; 
 &nbsp; 
