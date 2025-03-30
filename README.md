@@ -20,7 +20,7 @@
 
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=danikolovv&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-         <table border="0">
+         <table border="0" style="width: 40%; height: auto;">
                   <tr>
                            <th>Name of certificate</th>
                            <th>Grade</th>
