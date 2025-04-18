@@ -1,5 +1,6 @@
 <div id="user-content-toc">
-         <h1><img align="center" height="120" src="https://em-content.zobj.net/thumbs/120/apple/354/person-climbing_light-skin-tone_1f9d7-1f3fb_1f3fb.png"> Github Stats <span style="font-weight: 200; font-size: 12px;">Find more about me on linked site.</span></h1>         
+         <h1><img align="center" height="120" src="https://em-content.zobj.net/thumbs/120/apple/354/person-climbing_light-skin-tone_1f9d7-1f3fb_1f3fb.png"> Github Stats </h1>
+         <span style="font-weight: 200; font-size: 12px;">Find more about me on linked site.</span>
 </div>
 
 <div class='container'>
